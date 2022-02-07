@@ -66,9 +66,7 @@ ORDER BY COUNT(title) DESC;
 
 The results of this query can be seen below.  
 
-![makethiswork](data/retiring_titles.csv)
-
-![ntitles](https://github.com/corypeacock/Pewlett-Hackard-Analysis/blob/52fe9b481abb4068e4b12cb1afecfa5b175bf131/data/retiring_titles.csv)
+![newrettitles](data/new_retiring_titles.png)  
 
 Notably, the two major job positions that will experience retirements imminently are Senior Engineers (25,916) and Senior Staff (24,926). While an important position, only two (2) managers will be retiring soon.  
 
